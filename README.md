@@ -1,4 +1,8 @@
 # curso-practico-javascript
 
-### Figuras Geometricas (branch 1)
-- Paso a paso...
+### Figuras Geometricas
+- Crear archivos necesarios
+- Definir las formulas
+- implementar formulas en javascript
+- crear funciones
+- integrar javascript con html
